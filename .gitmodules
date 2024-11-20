@@ -1,3 +1,6 @@
 [submodule "ShortestPath"]
 	path = Java_21/ShortestPath
 	url = https://github.com/JH2535/ShortestPath.git
+[submodule "CSharp/ShoppingList"]
+	path = CSharp/ShoppingList
+	url = https://github.com/JH2535/ShoppingList.git
